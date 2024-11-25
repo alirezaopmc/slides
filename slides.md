@@ -1,4 +1,5 @@
 ---
+theme: light
 layout: center
 transition: fade
 ---
@@ -497,7 +498,9 @@ layout: center
 
 <v-clicks>
 
-- Google Doc Time Travel
+- Separation of Concerns
+- DRY
+- KISS
 
 </v-clicks>
 
@@ -519,3 +522,10 @@ layout: center
 </v-clicks>
 
 <span v-click>Source: refactoring.guru</span>
+
+---
+layout: center
+---
+
+# Thanks
+made with <3 by AlirezaOpmc
